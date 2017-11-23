@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ec407a</color>
+    <color name="colorPrimaryDark">#ad1457</color>
+    <color name="colorAccent">#f8bbd0</color>
+    <color name="pink0">#fce4ec</color>
+    <color name="pink1">#f8bbd0</color>
+    <color name="pink2">#f48fb1</color>
+    <color name="pink3">#f06292</color>
+    <color name="pink4">#ec407a</color>
+    <color name="pink5">#e91e63</color>
+    <color name="pink6">#d81b60</color>
+    <color name="pink7">#c2185b</color>
+    <color name="pink8">#ad1457</color>
+    <color name="pink9">#880e4f</color>
+
+</resources>
